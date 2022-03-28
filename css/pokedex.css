@@ -6,7 +6,7 @@
 
 body{
     font-family: 'Courier New', Courier, monospace;
-    background-image: url(resources/fondo.png);
+    background-image: url(../resources/fondo.png);
 }
 
 .bd-placeholder-img {
